@@ -1,0 +1,13 @@
+.section_arrivals{
+    margin-bottom: 143px;
+}
+.arrivals_title {
+    text-transform: uppercase;
+}
+
+.arrivals_line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 30px;
+}

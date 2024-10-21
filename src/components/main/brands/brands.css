@@ -1,0 +1,13 @@
+.section_brands{
+    background: var(--yellow);
+    padding: 58px 0;
+    margin-bottom: 120px;
+}
+.section_brands__line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.brands_line__image img{
+    mix-blend-mode: multiply;
+}
