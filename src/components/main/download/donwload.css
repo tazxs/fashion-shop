@@ -1,0 +1,33 @@
+.section_download {
+    margin-bottom: 200px;
+}
+.donwload_block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.download_left {
+  max-width: 510px;
+}
+.download_title {
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 150%;
+    letter-spacing: 0.06em;
+    color: #000;
+    margin-bottom: 40px;
+}
+.download_text {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 146%;
+    letter-spacing: -0.04em;
+    color: #7c7c7c;
+    margin-bottom: 60px;
+}
+.download_bottom__link{
+    margin-right: 20px;
+}
+.download_bottom__link:last-child{
+    margin-right: 0;
+}

@@ -7,7 +7,15 @@
 .card:hover .card_bottom .card_bottom__right a img{
     animation: slide 0.6s ease-in-out;
 }
-
+.fav_card {
+    position: relative;
+}
+.fav_card:hover .fav_card__image{
+    animation: opacity 0.5s ease-in-out;
+}
+.fav_card:hover .fav_card_bottom .card_bottom__right a img{
+    animation: slide 0.6s ease-in-out;
+}
 @keyframes slide{
     0%{
         left: 0;
